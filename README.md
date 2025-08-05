@@ -3,8 +3,8 @@
 Modern, responsive ve Türkçe destekli bir hava durumu uygulaması.
 
 ## 🌍 Canlı Demo  
-[![Vercel](https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel)](https://react-weather-app-pli2.vercel.app)  
-**Uygulama Linki**: https://react-weather-app-pli2.vercel.app
+[![Vercel][(https://img.shields.io/badge/Live_Demo-000000?style=flat&logo=vercel)](https://react-weather-app-pli2.vercel.app)  ](https://react-weather-app-pll2.vercel.app/)
+**Uygulama Linki**: [https://react-weather-app-pli2.vercel.app](https://react-weather-app-pll2.vercel.app/)
 
 ## Özellikler
 
